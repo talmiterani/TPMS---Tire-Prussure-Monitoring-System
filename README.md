@@ -6,4 +6,4 @@ which receives data from the sensor, and a receiver connected to the monitor,
 and the data translation algorithm from the receiver to the LCD. 
 Data processing is done using Arduino and an algorithem in C.
 
-If you have more questions about the code or anything you are more them welcome send me a mail :).
+If you have more questions about the code or anything you are more them welcome send me a mail :)
